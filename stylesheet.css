@@ -1,0 +1,199 @@
+  * {
+    font-family: "Lora";
+    text-decoration: none; 
+    }
+.author {
+    clear: both;
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 0.1em
+    }
+.author_index {
+    clear: both;
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.25px 0 -2px
+    }
+.author_logical_group {
+    display: block;
+    page-break-inside: avoid
+    }
+.author_title_letter_index {
+    clear: both;
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0
+    }
+.calibre {
+    background-color: white;
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    line-height: 1.2
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre5 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre6 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre7 {
+    -webkit-box-shadow: 4px 4px 12px #999;
+    height: auto;
+    width: auto
+    }
+.calibre8 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre9 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre10 {
+    font-weight: bold
+    }
+.date_index {
+    clear: both;
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0 0
+    }
+.description {
+    display: block;
+    text-indent: 1em;
+    margin: 0
+    }
+.description_divider {
+    color: gray;
+    display: block;
+    height: 2px;
+    width: 90%;
+    margin: 0.5em auto 0.5em 5%;
+    border-top: white solid 0;
+    border-right: white solid 0;
+    border-bottom: black solid 1px;
+    border-left: white solid 0
+    }
+.entry {
+    font-family: serif;
+    vertical-align: middle
+    }
+.formats {
+    display: block;
+    font-size: 0.75em;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.genres {
+    display: block;
+    font-style: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.5em 0 0
+    }
+.header_divider {
+    color: gray;
+    display: block;
+    height: 2px;
+    width: 100%;
+    margin: 0.5em auto;
+    border-top: white solid 1px;
+    border-right: white solid 0;
+    border-bottom: black solid 2px;
+    border-left: white solid 0
+    }
+.initial_letter {
+    display: block
+    }
+.line_item {
+    clear: both;
+    display: block;
+    font-family: monospace;
+    text-align: left;
+    text-indent: -2em;
+    margin: 0 0 0 2em
+    }
+.notes {
+    display: table-cell;
+    font-size: 1em;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.prefix {
+    float: left;
+    margin-left: 0.25em;
+    text-align: left;
+    vertical-align: middle;
+    width: 1.5em
+    }
+.publisher {
+    display: table-cell;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.rating {
+    display: table-cell;
+    text-align: center;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.series_id {
+    display: block;
+    text-align: center;
+    margin: 0
+    }
+.thumbnail {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.title {
+    display: block;
+    font-size: 1.66667em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0
+    }
